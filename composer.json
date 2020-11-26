@@ -24,11 +24,11 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "ogestor/eloquence-base": "dev-master",
-        "ogestor/eloquence-metable": "dev-master",
-        "ogestor/eloquence-mutable": "dev-master",
-        "ogestor/eloquence-mappable": "dev-master",
-        "ogestor/eloquence-validable": "dev-master"
+        "ogestor/eloquence-base": "^6.0",
+        "ogestor/eloquence-metable": "^6.0",
+        "ogestor/eloquence-mutable": "^6.0",
+        "ogestor/eloquence-mappable": "^6.0",
+        "ogestor/eloquence-validable": "^6.0"
     },
     "require-dev": {
         "phpunit/phpunit": "4.5.0",
